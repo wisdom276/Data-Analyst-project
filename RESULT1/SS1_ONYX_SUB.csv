@@ -1,0 +1,12 @@
+Subject,A (Distinction),B (Very Good),C (Credit),D (Pass),E (Fair),F (Fail),Average Performance (%)
+Biology,0,0,1,1,3,8,44
+Chemistry,0,0,0,1,3,9,48
+Civic Education,0,5,3,1,0,0,72
+Coding,0,4,1,1,1,2,69
+Data Processing,0,2,2,1,2,2,62
+English Language,0,0,1,0,2,6,51
+Further Mathematics,0,0,1,1,2,5,56
+Computer Studies,0,1,4,1,1,2,61
+Mathematics,0,0,0,1,1,7,50
+Physics,0,0,0,1,1,7,47
+Technical Drawing,0,0,0,0,1,8,42
